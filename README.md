@@ -22,5 +22,5 @@ main search scripts:
 #### the ids will be saved in the same csv input file
 
 
-### utils
+### Store_matching_gportal_data
 just some helper functions
